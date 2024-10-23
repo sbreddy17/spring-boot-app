@@ -51,12 +51,14 @@
 			</plugin>
 		</plugins>
 	</build>
+
 	<distributionManagement>
-    <repository>
-        <id>nexus</id>
-        <url>http://18.61.211.140:8081/repository/drucare/</url>
-    </repository>
-</distributionManagement>
+		    <repository>
+		        <id>nexus</id>
+		        <url>http://18.61.211.140:8081/repository/drucare/</url>
+		    </repository>
+	</distributionManagement>
+
 
 
 </project>
